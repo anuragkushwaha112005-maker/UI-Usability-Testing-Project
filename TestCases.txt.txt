@@ -1,0 +1,35 @@
+Test Case 1: Search Product
+Steps:
+1. Open website
+2. Enter product name in search bar
+3. Click search button
+
+Expected Result:
+Relevant products should be displayed
+
+
+Test Case 2: Add Product to Cart
+Steps:
+1. Select any product
+2. Click Add to Cart
+
+Expected Result:
+Product should be added to cart
+
+
+Test Case 3: Remove Product from Cart
+Steps:
+1. Go to cart page
+2. Remove product
+
+Expected Result:
+Product should be removed from cart
+
+
+Test Case 4: Navigation Menu
+Steps:
+1. Open homepage
+2. Click category
+
+Expected Result:
+User should navigate to selected category page
