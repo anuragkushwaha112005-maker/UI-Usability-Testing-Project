@@ -29,3 +29,11 @@ To analyze user experience and identify usability issues in the application.
 
 ## 🚀 Author
 Anurag Kushwaha
+
+## 📸 Screenshots
+
+### Home Page
+![Home](home.jpeg)
+
+### Product Page
+![Product](product.jpeg)
