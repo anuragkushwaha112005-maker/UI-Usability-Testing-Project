@@ -1,0 +1,19 @@
+Usability Testing Report
+
+Overview:
+This report evaluates the user interface and usability aspects of an e-commerce website.
+
+Positive Observations:
+- The website has a clean and user-friendly interface
+- Navigation is simple and intuitive
+- Search functionality provides relevant results
+- Product details are clearly visible and well-structured
+- Add to cart functionality works smoothly
+
+Usability Issues:
+- Page loading speed can be improved on some pages
+- Filters and sorting options can be enhanced for better user experience
+- Some buttons are not clearly highlighted for first-time users
+
+Conclusion:
+Overall, the website provides a good user experience, but minor improvements can enhance usability further.
